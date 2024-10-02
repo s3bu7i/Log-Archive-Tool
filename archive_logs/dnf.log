@@ -1,0 +1,30 @@
+2024-09-02T21:56:35+0400 INFO --- logging initialized ---
+2024-09-02T21:56:35+0400 DDEBUG timer: config: 14 ms
+2024-09-02T21:56:35+0400 DEBUG DNF version: 4.21.1
+2024-09-02T21:56:35+0400 DDEBUG Command: dnf list installed 
+2024-09-02T21:56:35+0400 DDEBUG Installroot: /
+2024-09-02T21:56:35+0400 DDEBUG Releasever: None
+2024-09-02T21:56:35+0400 DEBUG cachedir: /var/cache/dnf
+2024-09-02T21:56:35+0400 DDEBUG Base command: list
+2024-09-02T21:56:35+0400 DDEBUG Extra commands: ['list', 'installed']
+2024-09-02T21:56:35+0400 DEBUG User-Agent: constructed: 'libdnf (Kali GNU/Linux 2024.1; generic; Linux.x86_64)'
+2024-09-02T21:56:35+0400 DDEBUG timer: sack setup: 4 ms
+2024-09-02T21:56:35+0400 DDEBUG Cleaning up.
+2024-09-02T21:56:35+0400 DDEBUG Plugins were unloaded.
+2024-09-02T21:56:42+0400 INFO --- logging initialized ---
+2024-09-02T21:56:42+0400 DDEBUG timer: config: 1 ms
+2024-09-02T21:56:42+0400 DEBUG DNF version: 4.21.1
+2024-09-02T21:56:42+0400 DDEBUG Command: dnf list 
+2024-09-02T21:56:42+0400 DDEBUG Installroot: /
+2024-09-02T21:56:42+0400 DDEBUG Releasever: None
+2024-09-02T21:56:42+0400 DEBUG cachedir: /var/cache/dnf
+2024-09-02T21:56:42+0400 DDEBUG Base command: list
+2024-09-02T21:56:42+0400 DDEBUG Extra commands: ['list']
+2024-09-02T21:56:42+0400 DEBUG User-Agent: constructed: 'libdnf (Kali GNU/Linux 2024.1; generic; Linux.x86_64)'
+2024-09-02T21:56:42+0400 DDEBUG timer: sack setup: 4 ms
+2024-09-02T21:56:42+0400 DDEBUG Cleaning up.
+2024-09-02T21:56:42+0400 DDEBUG Plugins were unloaded.
+2024-09-02T21:56:46+0400 INFO --- logging initialized ---
+2024-09-02T21:56:46+0400 DDEBUG timer: config: 6 ms
+2024-09-02T21:56:46+0400 DDEBUG Cleaning up.
+2024-09-02T21:56:46+0400 DDEBUG Plugins were unloaded.
