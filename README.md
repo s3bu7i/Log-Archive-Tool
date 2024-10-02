@@ -19,4 +19,7 @@ Now you can run the script, providing the path to the log directory as an argume
 ```bash
 ./log-archive.sh /path/to/log-directory
 ```
-
+Project rev-
+```
+https://roadmap.sh/projects/log-archive-tool
+```
